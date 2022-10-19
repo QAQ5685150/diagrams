@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T08:27:03.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="Vk4sUM7uPyIY-DGyZVKB" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T08:28:13.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="FoDSsUs14R-Ufc_HKwNd" version="20.3.6" type="github">
   <diagram id="DqqOiQhb3Q6j2-KQ2CN7" name="第 1 页">
     <mxGraphModel dx="1375" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="twRsRYsOFR5_QMWUMKYM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="twRsRYsOFR5_QMWUMKYM-1" target="twRsRYsOFR5_QMWUMKYM-3">
+        <mxCell id="twRsRYsOFR5_QMWUMKYM-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="twRsRYsOFR5_QMWUMKYM-1" target="twRsRYsOFR5_QMWUMKYM-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twRsRYsOFR5_QMWUMKYM-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -18,9 +18,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="twRsRYsOFR5_QMWUMKYM-17" value="展示推荐" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="twRsRYsOFR5_QMWUMKYM-3" target="twRsRYsOFR5_QMWUMKYM-1">
+        <mxCell id="twRsRYsOFR5_QMWUMKYM-17" value="展示推荐" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="twRsRYsOFR5_QMWUMKYM-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="295" as="targetPoint" />
+            <mxPoint x="80" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="twRsRYsOFR5_QMWUMKYM-3" value="前端交互，调用接口，发送点击\浏览\购买\评分行为数据" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
@@ -51,13 +51,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="twRsRYsOFR5_QMWUMKYM-5" value="后端接收数据，处理用户响应，并发送用户行为数据" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="440" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="twRsRYsOFR5_QMWUMKYM-11" value="kafka消息" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="twRsRYsOFR5_QMWUMKYM-8" target="twRsRYsOFR5_QMWUMKYM-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="twRsRYsOFR5_QMWUMKYM-8" value="kafka集群broker" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="670" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="twRsRYsOFR5_QMWUMKYM-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="twRsRYsOFR5_QMWUMKYM-10" target="twRsRYsOFR5_QMWUMKYM-12">
           <mxGeometry relative="1" as="geometry" />
@@ -68,10 +68,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="twRsRYsOFR5_QMWUMKYM-10" value="spark集群接收kafka消息，使用推荐算法生成推荐列表&lt;br&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="670" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="twRsRYsOFR5_QMWUMKYM-12" value="update更新数据库用户的推荐列表(mongo\hbase)" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="670" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
