@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T08:59:46.031Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="eb1zo_u6ElpKq2cyA_HN" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T14:30:53.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.44" etag="zupHGHA_fbHKsdF-1vaD" version="21.1.0" type="github">
   <diagram id="dJLd-_wOgnxya4c3IJUS" name="第 1 页">
-    <mxGraphModel dx="1620" dy="899" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1377" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -713,13 +713,13 @@
         <mxCell id="41qBLi7EkmXg_IjoJ7bo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="41qBLi7EkmXg_IjoJ7bo-3" target="41qBLi7EkmXg_IjoJ7bo-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="41qBLi7EkmXg_IjoJ7bo-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;计算协方差矩阵，&lt;br&gt;并行特征值分解，&lt;br&gt;特征向量投影&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="41qBLi7EkmXg_IjoJ7bo-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;均值归一化，计算协方差矩阵，&lt;br&gt;并行特征值分解，&lt;br&gt;特征向量投影&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1290" y="1373" width="56" height="209" as="geometry" />
         </mxCell>
         <mxCell id="41qBLi7EkmXg_IjoJ7bo-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="41qBLi7EkmXg_IjoJ7bo-6" target="41qBLi7EkmXg_IjoJ7bo-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="41qBLi7EkmXg_IjoJ7bo-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;计算协方差矩阵，&lt;br&gt;并行特征值分解，&lt;br&gt;特征向量投影&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="41qBLi7EkmXg_IjoJ7bo-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;均值归一化，计算协方差矩阵，&lt;br&gt;并行特征值分解，&lt;br&gt;特征向量投影&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1453" y="1373" width="56" height="209" as="geometry" />
         </mxCell>
         <mxCell id="41qBLi7EkmXg_IjoJ7bo-7" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;合并结果&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -916,16 +916,16 @@
         <mxCell id="m0CBapH41yze3vwTy3hV-21" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;用户聚簇数据&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="405.5" y="1958" width="135" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JqR_Sjcz81CY8uacXr2S-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;……&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JqR_Sjcz81CY8uacXr2S-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;……&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1368" y="1461" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JqR_Sjcz81CY8uacXr2S-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;……&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JqR_Sjcz81CY8uacXr2S-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;……&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2081.38" y="1458" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JqR_Sjcz81CY8uacXr2S-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;……&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JqR_Sjcz81CY8uacXr2S-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;……&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2860.75" y="1301" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JqR_Sjcz81CY8uacXr2S-6" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;……&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JqR_Sjcz81CY8uacXr2S-6" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;……&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2860.75" y="1647" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
