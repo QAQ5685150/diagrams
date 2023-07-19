@@ -1,9 +1,149 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T15:52:13.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" version="21.2.9" etag="SaItlpcRhDLelMl-YrhJ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-19T16:25:51.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="U1qgJSBj40VOfotL38cr" version="21.2.9" type="github">
   <diagram name="第 1 页" id="Flk5us041VUydkW2a2n-">
-    <mxGraphModel>
+    <mxGraphModel dx="1305" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-33" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=20;dashed=1;strokeWidth=2;glass=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="500" width="206" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-31" value="" style="rounded=1;whiteSpace=wrap;html=1;opacity=20;dashed=1;strokeWidth=2;glass=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="700" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfMsnBIecxRwPX5G_Iwr-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-1" value="心理想着漂亮女同事，想和人家接触一下，深入了解一下，看有没有机会……" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-4" value="用自己不熟练的表达技巧尝试与人家接触，被人家礼貌的拒绝" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="205" as="sourcePoint" />
+            <mxPoint x="480" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfMsnBIecxRwPX5G_Iwr-6" target="TfMsnBIecxRwPX5G_Iwr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-6" value="思考自己是哪里有问题，从“同事不好下手”“和人家不配”、“刚开始认识几天”各种想法都冒出来了……不断地内耗" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="160" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfMsnBIecxRwPX5G_Iwr-7" target="TfMsnBIecxRwPX5G_Iwr-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-7" value="走在一个人回家的路上，感觉自己好失败，又到了一个人的房间，寂寞空虚+想要转移注意力+想要刺激" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="295" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfMsnBIecxRwPX5G_Iwr-9" target="TfMsnBIecxRwPX5G_Iwr-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-9" value="开始看片，进入熟悉的网址" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TfMsnBIecxRwPX5G_Iwr-11" target="TfMsnBIecxRwPX5G_Iwr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-11" value="对女生的生理和心理的双重需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfMsnBIecxRwPX5G_Iwr-15" target="TfMsnBIecxRwPX5G_Iwr-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-15" value="看片好刺激������������彻底忘记自己的“想太多”" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfMsnBIecxRwPX5G_Iwr-17" target="TfMsnBIecxRwPX5G_Iwr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-23" value="������了出来" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TfMsnBIecxRwPX5G_Iwr-20">
+          <mxGeometry x="-0.2463" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfMsnBIecxRwPX5G_Iwr-17" target="TfMsnBIecxRwPX5G_Iwr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-24" value="没有������" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TfMsnBIecxRwPX5G_Iwr-22">
+          <mxGeometry x="-0.2145" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-17" value="针线活" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="500" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfMsnBIecxRwPX5G_Iwr-19" target="TfMsnBIecxRwPX5G_Iwr-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-19" value="进入贤者模式" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TfMsnBIecxRwPX5G_Iwr-21" target="TfMsnBIecxRwPX5G_Iwr-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-21" value="打游戏转移了自己的注意力" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TfMsnBIecxRwPX5G_Iwr-25" target="TfMsnBIecxRwPX5G_Iwr-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-25" value="开始责怪自己为什么忍不住，批判自己，觉得自己好没用" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TfMsnBIecxRwPX5G_Iwr-27" target="TfMsnBIecxRwPX5G_Iwr-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-27" value="回归理性，回味过来了自己为什么变成这样，总结经验" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-32" value="&lt;font color=&quot;#ff0080&quot;&gt;&lt;b&gt;这一块是可以替换的。比如说复读的时候我想的是高中女同学，大学的时候我想的是同班同学&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-38" value="&lt;b style=&quot;border-color: var(--border-color); color: rgb(255, 0, 128); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;进入另一种内耗循环&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="64" y="530" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-39" value="继续内耗" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="775" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=11.764705882352942;endSize=11.270588235294118;endWidth=15.570934256055363;opacity=30;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="140" as="sourcePoint" />
+            <mxPoint x="30" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;过去每次遇到问题的下意识解决思路&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4" y="420" width="86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-45" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=11.764705882352942;endSize=11.270588235294118;endWidth=15.570934256055363;opacity=30;strokeWidth=1;exitX=0.786;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TfMsnBIecxRwPX5G_Iwr-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="150" as="sourcePoint" />
+            <mxPoint x="590" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-46" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;新的思路，走出过去的死循环&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-48" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="20" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-49" value="想的太多了，本来不是问题，或者认真思考后可以解决的问题，让自己把自己搞死了，解决不了了" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="537.5" y="50" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-51" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="90" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-54" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="TfMsnBIecxRwPX5G_Iwr-55" value="走出这种失败者内耗的最好方法就是去做事！&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;把自己的注意力集中在具体的事情上&lt;/font&gt;&lt;/b&gt;，而不是那些有的没的不存在的臆想上！！就比如现在我在这里画图，我就完全不会再想那些有的没的，&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;才能真正的走出来，去做自己真正喜欢的有意义的事情，才不是浪费时间！！&lt;/font&gt;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="690" width="310" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
